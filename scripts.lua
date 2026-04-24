@@ -65,7 +65,7 @@ for i = 1, 15 do CreateParticle() end -- Cria 15 partículas
 -- Título
 local Title = Instance.new("TextLabel", MainFrame)
 Title.Size = UDim2.new(1, 0, 0, 60)
-Title.Text = "XIT MENU XL 😺"
+Title.Text = "SeloreV1"
 Title.Font = Enum.Font.GothamBold
 Title.TextColor3 = Color3.fromRGB(255, 50, 50)
 Title.BackgroundTransparency = 1
