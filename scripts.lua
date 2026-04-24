@@ -10,7 +10,7 @@ local player = game.Players.LocalPlayer
 
 local posicaoSalva = nil
 local flying, speedActive, noclipActive = false, false, false
-local flySpeed, walkSpeedValue = 60, 120
+local flySpeed, walkSpeedValue = 60, 200
 
 -- GUI Principal
 local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
